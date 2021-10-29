@@ -14,11 +14,13 @@ This repo contains the schematics and the components that I used to build this l
 - Battery 18650: [Aliexpress link](https://it.aliexpress.com/item/1005002325103098.html?spm=a2g0s.9042311.0.0.17ac4c4dMwSY0U)
 - Battery 18650 holder: [Aliexpress link](https://it.aliexpress.com/item/1005001660193629.html?spm=a2g0s.9042311.0.0.17ac4c4dMwSY0U)
 
- ![name-of-you-image](https://github.com/AlessandroAvi/Moonboard_LED_DIY/blob/main/Img/material.png) 
+ ![name-of-you-image](https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/Material.jpg) 
+
+
 
 ## CIRCUIT SCHEMATIC
 
-
+ ![name-of-you-image](https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/Schematic.jpg)
 
 
 
