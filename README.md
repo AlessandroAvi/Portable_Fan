@@ -2,6 +2,8 @@
 
 This repo contains the schematics and the components that I used to build this little portable fan. Additionaly future work could be to include also a microcontroller for controlling the PWM signal that allows to choose the speed of the fan.
 
+Here is the [link](https://www.youtube.com/watch?v=qo8P7rzDw8k) of the original video from which I took the idea and STL file. 
+
 
 
 ## MATERIAL
@@ -24,6 +26,6 @@ This repo contains the schematics and the components that I used to build this l
 
 
 
-## ORIGINAL TUTORIAL
+## RESULTS
 
-Here is the [link](https://www.youtube.com/watch?v=qo8P7rzDw8k) of the original video from which I took the idea and STL file. 
+To add images/video when finished
