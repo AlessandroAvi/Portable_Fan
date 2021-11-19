@@ -4,6 +4,8 @@ This repo contains the schematics and the components that I used to build this l
 
 Here is the [link](https://www.youtube.com/watch?v=qo8P7rzDw8k) of the original video from which I took the idea and STL file. 
 
+With respect to the original STL file a hole has been added in the top part for allowing the easy mounting of the ON-OFF switch. Also the slot for the battery LED has been moved 15 mm down and another hole has been made (later with a drill) that allows the user to press the micro button. The purpose of the micro button is to connect the LED battery indicator to the circuit. This is necessary because the fan that I used demands high current and if botht eh fan and the LED are connected neither would work properly. By allowing only one of the two at a time the circuit works fine.
+
 
 
 ## MATERIAL
