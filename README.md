@@ -4,7 +4,7 @@ This repo contains the schematics and the components that I used to build this l
 
 Here is the [link](https://www.youtube.com/watch?v=qo8P7rzDw8k) of the original video from which I took the idea and STL file. 
 
-<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/fan.gif" width="500" height="600">
+<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/fan.gif" width="600" height="337">
 
 <img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/fan.jpg" width=80% height=80%>
 
