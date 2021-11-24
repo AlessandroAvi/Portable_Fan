@@ -4,7 +4,9 @@ This repo contains the schematics and the components that I used to build this l
 
 Here is the [link](https://www.youtube.com/watch?v=qo8P7rzDw8k) of the original video from which I took the idea and STL file. 
 
-<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/void.png" width=50% height=50%>
+<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/fan.gif" width="500" height="600">
+
+<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/fan.jpg" width=80% height=80%>
 
 ## BOM
 
@@ -30,14 +32,12 @@ Total cost is around 10€ for the components (without the fan) + other 7€ for
 
 With respect to the original STL file a hole has been added in the top part for allowing the mounting of a mini rocker ON-OFF switch. Also the slot for the battery LED has been moved 15 mm down. 
 
-One other big problem that I encountered was the deformation of the print. Due to the heat and the printing plane not being glass the final print had a warped shape. I was able to resolve this by heating up again the print with a hairdryer and deform the plastic in order to assume the correct shape.
-
-<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/print_warped.jpg" width=70% height=70%>
+One other big problem that I encountered was the deformation of the print. Due to the heat and the printing plane not being glass the final print had a warped shape. I was able to partially resolve this by heating up again the print with a hairdryer and deform the plastic in order to assume the correct shape.
 
 Another problem encountered was the dimension of the fan. With respect to the original STL file, the fan that I used is 120x120x40 mm. This means that just the fan, without the small traingles will fill up the entire space. To overcome this problem the small triangles are mounted later with some hot glue as shown in the photo (notice that this doesn't allow the fan to be moved after mounting).
 
-<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/void.png" width=50% height=50%>
+<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/screw_holder.jpg" width=60% height=60%>
 
 ## OTHER IMAGES
 
-<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/print_3.jpg" width=% height=%>
+<img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/images.png" width=100% height=100%>
