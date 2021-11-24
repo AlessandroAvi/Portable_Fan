@@ -34,7 +34,7 @@ One other big problem that I encountered was the deformation of the print. Due t
 
 <img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/print_warped.jpg" width=70% height=70%>
 
-Another problem encountered was the dimension of the fan. With respect to the original STL file, the fan that I used is 120x120x40 mm. This means that just the fan, without the small traingles will fill up the entire space. To overcome this problem the small triangles are mounted later with some hot glue as shown in the photo.
+Another problem encountered was the dimension of the fan. With respect to the original STL file, the fan that I used is 120x120x40 mm. This means that just the fan, without the small traingles will fill up the entire space. To overcome this problem the small triangles are mounted later with some hot glue as shown in the photo (notice that this doesn't allow the fan to be moved after mounting).
 
 <img src="https://github.com/AlessandroAvi/Portable_Fan/blob/main/Img/void.png" width=50% height=50%>
 
